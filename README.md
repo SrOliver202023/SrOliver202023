@@ -5,6 +5,4 @@
 
 Here are some ideas to get you started:
 
-
-
-https://www.linkedin.com/in/emerson-oliveira-0564191b4/
+link: https://www.linkedin.com/in/emerson-oliveira-0564191b4/
