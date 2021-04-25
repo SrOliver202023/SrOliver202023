@@ -7,7 +7,7 @@
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-<ul>
+<ul style="display: flex">
   <li>
     <a href="https://www.facebook.com/profile.php?id=100064468222184"><img src="https://lh4.googleusercontent.com/V7jUv7adsgr6SstT9lroTMOkB8hnHCpITT5Us6vuTtpmHM5XvcPrzINj5MCcaKcrcX2dM_VPxnfKdER9qvzS=w1600-h761-rw" alt="Facebook" width=150rem height=25rem></a>
   </li>
