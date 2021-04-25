@@ -11,6 +11,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 <a href="social"><img src="ImagesGdriver" alt="Gmail" width=150rem height=25rem></a>
 
-<a href=" "><img src="https://drive.google.com/file/d/1VVNwjfSCEs7Lk-CdZdtrawamIoNqk61R/preview" alt=" " width=150rem height=25rem></a>
+<a href=" "><img src="https://lh3.googleusercontent.com/KVUnZ5NhU4i5S9Bjd8tdd6mrnafJuqmA7AQSTqsxg8usMZ7gnK5l2L_nLUxLkV0xPH0=w1200-h630-p" alt=" " width=150rem height=25rem></a>
 
 <a href=" "><img src=" " alt="Facebook" width=150rem height=25rem></a>
