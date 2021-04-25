@@ -15,9 +15,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
   <a href="social"><img src="https://lh5.googleusercontent.com/ceyN1hom4kuGSmdgyryAIAr8HpuFt218-SrT7OO8s-O7nalygz2lshoG4uOB-OlT-OyUQIT8wV7oSZQQUd76=w1600-h690-rw" alt="Gmail" width=150rem height=25rem></a>
   </li>
   <li>
-<a href=" "><img src="https://lh5.googleusercontent.com/udaVjJA7K-dLAOfB35UjkWdVFkJuWxzzUFm51o_47ETKU5pt-OmKaLfp14bCOTQAdj_NmXsqykSx2ydw_QxF=w1600-h690-rw" alt="Linkedin" width=150rem height=25rem></a>
-  </li>
-  <li>
 <a href=" "><img src="https://lh3.googleusercontent.com/Zmvp8KvcCtcis-Q_62x7Xbse1rQkBYvrcN84e9RuRGiYXraQlZYlBKo3KdctKMAQoZNDFDNaKZDRfjWWDKxR=w1600-h690-rw" alt="Instagram" width=150rem height=25rem></a>  
   </li>
 </ul>
