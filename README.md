@@ -7,4 +7,3 @@ Job as Young Apprentice.
 
 Html & Css, Node, React, Bootstrap, JQuery,JavaScript, MongoDB, SQL
 
-Excel, 
