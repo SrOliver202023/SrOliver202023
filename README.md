@@ -5,5 +5,5 @@ Now studying to ENEM 2021 for UESC Computer Science.
 School finalized.
 Job as Young Apprentice.
 
-Html & Css, Node, React, Bootstrap, JQuery,JavaScript, MongoDB, SQL
+Html, CSS, AdobeXD
 
