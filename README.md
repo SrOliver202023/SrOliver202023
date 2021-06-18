@@ -6,7 +6,6 @@
 • Working as Yourn Learn by IEL in Dissulba/Nestlê.
 <br>
 • Studying node, javascript and reactjs courses att Udemy.
-
 School finalized.
 Job as Young Apprentice.
 
