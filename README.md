@@ -9,5 +9,8 @@
 School finalized.
 Job as Young Apprentice.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sroliver202023=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
