@@ -13,7 +13,6 @@
     <img align="center" alt="Emmerson-Node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
     <img align="center" alt="Emmerson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Emmerson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Emmerson-XD" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
     <img align="center" alt="Emmerson-VBA" height="50" width="52" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png?width=256&s=5bac38c05ef99a5cfe910cd79d94b0e9dbe15e6d">
   </div>
     <br>
