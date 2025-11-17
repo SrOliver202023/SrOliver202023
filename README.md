@@ -1,6 +1,6 @@
 <div align="left">
 
-  <h2 style="color:#BD93F9;">⚡ Emmerson Oliveira — Full Stack Developer (Pleno) ⚡</h2>
+<h2 style="color:#BD93F9;">⚡ Emmerson Oliveira — Full Stack Developer (Pleno) ⚡</h2>
 
 <h3 style="color:#BD93F9;">Tech Stack</h3>
 
@@ -34,31 +34,34 @@
 
 </div>
 
-
-  <!-- SOBRE -->
   <h3 style="color:#BD93F9;">Sobre</h3>
 
-<p style="color:#F8F8F2; max-width:700px;">
-  Desenvolvedor Full Stack Pleno com foco em Node.js, NestJS, React e Next.js.
-  Experiência sólida em construção de APIs REST, microsserviços, integrações
-  corporativas (Totvs/Práxio), modelagem e normalização de bancos de dados
-  Oracle e PostgreSQL e implementação de testes unitários, integração e E2E
-  com Jest.
+  <!-- SOBRE -->
+ <p style="color:#F8F8F2; max-width:700px;">
+  👨‍💻 Desenvolvedor Full Stack Pleno especializado em <strong>Node.js</strong>,
+  <strong>NestJS</strong>, <strong>React</strong> e <strong>Next.js</strong>, atuando na construção de
+  <strong>APIs REST</strong>, <strong>microsserviços</strong>, integrações corporativas (Totvs/Práxio),
+  modelagem e normalização de <strong>Oracle</strong> e <strong>PostgreSQL</strong> e implementação de
+  testes unitários, integração e E2E com <strong>Jest</strong>.
 
-  Atuo também com UX/UI, incluindo prototipação no Figma, criação de
-  interfaces modernas, componentização e padronização de design usando
-  Tailwind, Radix UI e Shadcn.
+  🎨 Também atuo com <strong>UX/UI</strong>, trabalhando com prototipação no <strong>Figma</strong>,
+  componentização, acessibilidade e construção de interfaces modernas usando
+  <strong>TailwindCSS</strong>, <strong>Radix UI</strong> e <strong>Shadcn</strong>.
 
-  Experiência prática em DevOps e infraestrutura com Docker, Docker Compose,
-  Nginx, Ubuntu Server, automações com Jenkins, pipelines CI/CD, Git-flow,
-  Husky, conventional commits e deploys em ambientes Cloud (AWS EC2, S3) e
-  On-Premise (Dell + VMware ESXi, Prometheus, Grafana).
+  🛠 No lado de DevOps e infraestrutura, possuo experiência com
+  <strong>Docker</strong>, <strong>Docker Compose</strong>, <strong>Nginx</strong>, <strong>Ubuntu Server</strong>,
+  automações com <strong>Jenkins</strong>, pipelines CI/CD, Git-flow, Husky,
+  conventional commits e deploys em ambientes <strong>Cloud (AWS EC2, S3)</strong> e
+  <strong>On-Premise</strong> (VMware ESXi, Prometheus, Grafana).
 
-  Forte atuação em liderança técnica, organização de arquitetura,
-  elicitação de requisitos com stakeholders e manutenção de ambientes
-  produtivos de alta disponibilidade. Fluente em metodologias ágeis,
-  especialmente Scrum e Jira.
+  🚀 Atuando como <strong>Tech Lead</strong>, participo de decisões de arquitetura,
+  planejamento técnico, revisão de código, elicitação de requisitos com
+  stakeholders e manutenção de ambientes de alta disponibilidade.
+
+  📌 Trabalhando com <strong>Scrum</strong>, <strong>Jira</strong> e foco constante em qualidade,
+  performance e escalabilidade.
 </p>
+
   <!-- SOCIALS -->
   <h3 style="color:#BD93F9;">Contatos</h3>
   <a href="https://github.com/sroliver202023">
