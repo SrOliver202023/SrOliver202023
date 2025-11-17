@@ -1,18 +1,95 @@
-<h2>         [ IN 2025 ]           </h2>
-<div align="center"> 
-  <img display="block" src="https://github-readme-stats.vercel.app/api?username=sroliver202023&show_icons=true&theme=radical">
+<div align="center">
 
-  <div style="display: inline_block">
-    <br>
-    <img align="center" alt="Emmerson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Emmerson-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Emmerson-Git" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Git-logo-orange.svg">
-    <img align="center" alt="Emmerson-Node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-    <img align="center" alt="Emmerson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Emmerson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Emmerson-VBA" height="50" width="52" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png?width=256&s=5bac38c05ef99a5cfe910cd79d94b0e9dbe15e6d">
+  <h2 style="color:#BD93F9;">⚡ Emmerson Oliveira — Full Stack Developer (Pleno) ⚡</h2>
+
+  <p style="color:#F8F8F2;">
+    Node.js • NestJS • React • Next.js • UX/UI • Docker • Linux • DevOps • Scrum
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sroliver202023&show_icons=true&theme=dracula" />
+
+  <br/><br/>
+
+  <!-- STACK PRINCIPAL -->
+  <h3 style="color:#BD93F9;">Tech Stack</h3>
+
+  <div align="center">
+
+  <!-- Core -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-282A36?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img alt="React" src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+  <br/>
+
+  <!-- UX/UI -->
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-282A36?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-282A36?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="Radix UI" src="https://img.shields.io/badge/Radix_UI-282A36?style=for-the-badge&logo=radix-ui&logoColor=white" />
+
+  <br/>
+
+  <!-- Tools -->
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-282A36?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=F05032" />
+
+  <br/>
+
+  <!-- DevOps -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-282A36?style=for-the-badge&logo=nginx&logoColor=65AB3C" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-282A36?style=for-the-badge&logo=jenkins&logoColor=F24B2D" />
+
+  <br/>
+
+  <!-- DB -->
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-282A36?style=for-the-badge&logo=oracle&logoColor=F80000" />
+
+  <br/>
+
+  <!-- Agile -->
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-282A36?style=for-the-badge&logo=jira&logoColor=0052CC" />
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-282A36?style=for-the-badge&logo=scrumalliance&logoColor=00AEEF" />
+
   </div>
-    <br>
 
-  <img  display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroliver202023&show_icons=true&theme=radical">
- </div>
+  <br/><br/>
+
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroliver202023&layout=compact&theme=dracula" />
+
+  <br/><br/>
+
+  <!-- SOBRE -->
+  <h3 style="color:#BD93F9;">Sobre</h3>
+
+  <p style="color:#F8F8F2; max-width:650px;">
+    Desenvolvedor Full Stack Pleno com experiência em APIs REST, microsserviços,
+    modelagem de banco de dados, integrações corporativas, frontend moderno
+    e práticas de DevOps. Atuo também com UX/UI (prototipação, fluxo de interface
+    e design funcional).  
+    Experiência com arquitetura, CI/CD, manutenção de servidores Linux, Docker,
+    pipelines automatizados e metodologias ágeis (Scrum).
+  </p>
+
+  <br/>
+
+  <!-- Socials -->
+  <a href="https://github.com/sroliver202023">
+    <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/emmerson-oliveira-9483672a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-6272A4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <sub style="color:#6272A4;">Atualizado • 2025</sub>
+
+</div>
