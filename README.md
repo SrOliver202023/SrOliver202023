@@ -37,22 +37,17 @@
   <img alt="NestJS" style="margin:2px 0;" src="https://img.shields.io/badge/NestJS-282A36?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img alt="React" style="margin:2px 0;" src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" style="margin:2px 0;" src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  
   <img alt="Figma" style="margin:2px 0;" src="https://img.shields.io/badge/Figma-282A36?style=for-the-badge&logo=figma&logoColor=F24E1E" />
   <img alt="TailwindCSS" style="margin:2px 0;" src="https://img.shields.io/badge/TailwindCSS-282A36?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img alt="Radix UI" style="margin:2px 0;" src="https://img.shields.io/badge/Radix_UI-282A36?style=for-the-badge&logo=radix-ui&logoColor=white" />
-
   <img alt="Cursor" style="margin:2px 0;" src="https://img.shields.io/badge/Cursor-282A36?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Git" style="margin:2px 0;" src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=F05032" />
-
   <img alt="Docker" style="margin:2px 0;" src="https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img alt="Linux" style="margin:2px 0;" src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img alt="Nginx" style="margin:2px 0;" src="https://img.shields.io/badge/Nginx-282A36?style=for-the-badge&logo=nginx&logoColor=65AB3C" />
   <img alt="Jenkins" style="margin:2px 0;" src="https://img.shields.io/badge/Jenkins-282A36?style=for-the-badge&logo=jenkins&logoColor=F24B2D" />
-
   <img alt="PostgreSQL" style="margin:2px 0;" src="https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=336791" />
   <img alt="Oracle" style="margin:2px 0;" src="https://img.shields.io/badge/Oracle-282A36?style=for-the-badge&logo=oracle&logoColor=F80000" />
-
   <img alt="Jira" style="margin:2px 0;" src="https://img.shields.io/badge/Jira-282A36?style=for-the-badge&logo=jira&logoColor=0052CC" />
   <img alt="Scrum" style="margin:2px 0;" src="https://img.shields.io/badge/Scrum-282A36?style=for-the-badge&logo=scrumalliance&logoColor=00AEEF" />
 
