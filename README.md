@@ -2,7 +2,6 @@
 
 <h2 style="color:#BD93F9;">⚡ Emmerson Oliveira — Full Stack Developer (Pleno) ⚡</h2>
   <h3 style="color:#BD93F9;">Sobre</h3>
-  <!-- SOBRE -->
  <p style="color:#F8F8F2; max-width:700px;">
   👨‍💻 Desenvolvedor Full Stack Pleno especializado em <strong>Node.js</strong>,
   <strong>NestJS</strong>, <strong>React</strong> e <strong>Next.js</strong>, atuando na construção de
